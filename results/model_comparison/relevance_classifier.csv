@@ -1,0 +1,6 @@
+model,configuration,accuracy,precision,recall,f1,deployed
+RoBERTa,roberta-large @ 128 tokens,0.9120,0.9231,0.8727,0.8972,
+DeBERTa,deberta-v3-base @ 512 tokens,0.9240,0.8699,0.9727,0.9185,yes
+Gemini 2.5 Flash,prompted (full post),0.8640,0.7923,0.9364,0.8583,
+Gemini 2.5 Pro,prompted (full post),0.8480,0.8000,0.8727,0.8348,
+Gemini 2.5 Flash-Lite,prompted (full post),0.8720,0.8197,0.9091,0.8621,

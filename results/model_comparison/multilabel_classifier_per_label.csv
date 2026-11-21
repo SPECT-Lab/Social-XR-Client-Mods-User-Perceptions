@@ -1,0 +1,27 @@
+model,label,precision,recall,f1,support,deployed
+Gemini 3.1 Flash-Lite,Disruption,0.9288,0.9725,0.9502,255,yes
+Gemini 3.1 Flash-Lite,Asset Theft,0.8889,0.9846,0.9343,65,yes
+Gemini 3.1 Flash-Lite,Safety Evasion,0.7391,0.6296,0.68,27,yes
+Gemini 3.1 Flash-Lite,Private Info Access,0.6667,0.8235,0.7368,17,yes
+Gemini 3.1 Flash-Lite,Mod Side-Effects,0.5882,0.7692,0.6667,13,yes
+Gemini 3.1 Flash-Lite,AC Effective,0.8254,0.8525,0.8387,61,yes
+Gemini 3.1 Flash-Lite,AC Ineffective,0.9135,0.9091,0.9113,209,yes
+Gemini 3.1 Flash-Lite,Limited Platform Coverage,0.76,1.0,0.8636,19,yes
+Gemini 3.1 Flash-Lite,Performance Overhead,0.6923,0.8182,0.75,22,yes
+Gemini 3.1 Flash-Lite,Loss of Useful Mods,0.8444,0.95,0.8941,40,yes
+Gemini 3.1 Flash-Lite,AC Privacy Concerns,0.625,0.8333,0.7143,6,yes
+Gemini 3.1 Flash-Lite,User Recommendations,0.8333,0.9375,0.8824,16,yes
+Gemini 3.1 Flash-Lite,AC Financial Motives,1.0,0.72,0.8372,25,yes
+GPT-5.4 Mini,Disruption,0.9713,0.7961,0.875,255,
+GPT-5.4 Mini,Asset Theft,0.9688,0.9538,0.9612,65,
+GPT-5.4 Mini,Safety Evasion,1.0,0.2593,0.4118,27,
+GPT-5.4 Mini,Private Info Access,1.0,0.6471,0.7857,17,
+GPT-5.4 Mini,Mod Side-Effects,0.6923,0.6923,0.6923,13,
+GPT-5.4 Mini,AC Effective,0.6322,0.9016,0.7432,61,
+GPT-5.4 Mini,AC Ineffective,0.9217,0.7321,0.816,209,
+GPT-5.4 Mini,Limited Platform Coverage,0.85,0.8947,0.8718,19,
+GPT-5.4 Mini,Performance Overhead,0.7895,0.6818,0.7317,22,
+GPT-5.4 Mini,Loss of Useful Mods,0.7255,0.925,0.8132,40,
+GPT-5.4 Mini,AC Privacy Concerns,0.5,0.6667,0.5714,6,
+GPT-5.4 Mini,User Recommendations,0.7143,0.9375,0.8108,16,
+GPT-5.4 Mini,AC Financial Motives,0.9048,0.76,0.8261,25,
