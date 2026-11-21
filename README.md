@@ -2,11 +2,19 @@
 
 Code and supporting files for our paper "Understanding Users' Perceptions of Client-Side Modifications and Anti-Cheat Engines in Social XR", accepted to ACM SIGSAC Conference on Computer and Communications Security (CCS) 2026.
 
-View the [Artifact Appendix](./Artifact-Appendix.pdf) for more details.
-
 We do not release the Reddit data or the trained relevance classifier built on it due to Reddit's content policy.
 
-Please cite our work as follows for any purpose of usage.
+Our artifact received all three badges: Available, Functional, and Reproduced.
+
+<p>
+  <img src="badges/available.png" alt="Artifacts Available" height="80">
+  <img src="badges/functional.png" alt="Artifacts Evaluated – Functional" height="80">
+  <img src="badges/reproduced.png" alt="Results Reproduced" height="80">
+</p>
+
+View the [Artifact Appendix](./Artifact-Appendix.pdf) for more details.
+
+Please cite our work as follows for any purpose of usage:
 
 ```bibtex
 @inproceedings{mohammadi2026understanding,
